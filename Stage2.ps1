@@ -23,7 +23,7 @@
     Date    : 27/02/2021 
 
 .LINK
-    https://kb.rosbank.rus.socgen/pages/viewpage.action?pageId=29738761
+
 #>
 Param(
     [Parameter (Mandatory = $true)]
